@@ -1,6 +1,6 @@
 # WCA Competition Requirements Policy
 
-### Version 5.5 {.version}
+### Version 5.6 {.version}
 
 ## Purpose
 The purpose of this policy is to define the requirements and processes that a competition must meet and follow in order to be recognized as a WCA Competition.
@@ -266,6 +266,8 @@ The WCA Delegate must submit the following information when requesting approval 
     2. The organization team may request to prohibit competitors from participating in specific combinations of events.
       1. The organization team may limit the number of events for which competitors can register.
     3. Approving optional requirements is at the discretion of the WCA Competition Announcement Team.
+
+In addition to the requirements listed above, all competitions recognized as a WCA Competition must be presented and managed in a professional manner, and must be a positive reflection on the organization. Competitions which fail to present themselves in a professional manner may be rejected at the discretion of the WCA Competition Announcement Team.
 
 ### Amendments to WCA Competitions {.page-break-before}
 The following information can be changed by the competition WCA Delegate without approval, within the confines of the relevant WCA Regulations. Changes to any of the below points must be clearly communicated to all registered competitors:
